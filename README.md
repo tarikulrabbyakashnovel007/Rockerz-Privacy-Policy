@@ -1,7 +1,7 @@
-# Neno-Codes-Privacy-Policy
+# Infinix-Policy
 
 ## **Neno Codes's Privacy Policy**
-### By using Neno Codes you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
+### By using Infinix you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
 
 ## 1. What does it store?
 
@@ -18,7 +18,7 @@
 - Server Admins
 
 ## 3. Why do we store the data?
-
+-  for making commands executable
 #### 1. It stores-
 - server ID to store other server data linked to it (channel id, role id, vanity url code)
 - channel ID to send thanks message when someone adds thier vanity in status 
@@ -29,8 +29,8 @@
 ## 4. This Privacy Policy doesn't answer my question. What should I do?
 
 #### You can reach us by the following methods:
-- Join our [Support Server](https://discord.gg/bTvP8VNG6S) on discord
-- Contact me on discord [discord.gg/sodium](https://discord.gg/bTvP8VNG6S)
+- Join our [Support Server](https://discord.gg/insrxd) on discord
+- Contact me on discord [discord.gg/insrxd](https://discord.gg/insrxd)
 - Server invite invalid or channels locked ? You can contact me via my email address: ishannnhere@proton.me
 
 ## 5. How can we delete our entire data?
@@ -39,4 +39,4 @@
 
 
 ## A warning will be announced in the support server 3 days prior to policy changes.
-#### **Last changed:**  `3rd September, 2022`
+#### **Last changed:**  `05/11, 2022`
