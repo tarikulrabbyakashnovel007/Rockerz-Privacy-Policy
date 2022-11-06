@@ -1,6 +1,6 @@
-# Infinix-Policy
+# Rockerz-Policy
 
-## **Infinix Privacy Policy**
+## **Rockerz Privacy Policy**
 ### By using Infinix you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
 
 ## 1. What does it store?
@@ -29,9 +29,9 @@
 ## 4. This Privacy Policy doesn't answer my question. What should I do?
 
 #### You can reach us by the following methods:
-- Join our [Support Server](https://discord.gg/insrxd) on discord
-- Contact me on discord [discord.gg/insrxd](https://discord.gg/insrxd)
-- Server invite invalid or channels locked ? You can contact me via my email address: ishannnhere@proton.me
+- Join our [Support Server](https://discord.gg/Vrqt8VH94r) on discord
+- Contact me on discord [Discord](https://discord.gg/Vrqt8VH94r)
+- Server invite invalid or channels locked ? You can contact me via my email address: tarikulontop@gmail.com
 
 ## 5. How can we delete our entire data?
 
@@ -39,4 +39,4 @@
 
 
 ## A warning will be announced in the support server 3 days prior to policy changes.
-#### **Last changed:**  `05/11, 2022`
+#### **Last changed:**  `06/11, 2022`
